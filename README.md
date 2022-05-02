@@ -40,7 +40,7 @@
 <a href="https://instagram.com/rafhaelrg" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-rafhaelrg-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-  <a href="rafhaegomes-dev@gmail.com" target="_blank">
+  <a href= mailto: rafhaegomes-dev@gmail.com target="_blank">
  <img align="center" src="https://img.shields.io/badge/-rafhaelrg-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
 </p>
