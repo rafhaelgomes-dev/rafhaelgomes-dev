@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="cartão"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Rafhael Gomes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafhaelgomes-dev&color=yellow" alt="Profile views" /> </p>
 
