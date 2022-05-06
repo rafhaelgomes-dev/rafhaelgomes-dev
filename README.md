@@ -5,6 +5,8 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [rafhaelgomes-dev](https://rafhaelgomes-dev)
 
+- 💚 Sou apaixonado por Mercado Financeiro, Tecnologia e Música
+
 
 <br><br>
 
