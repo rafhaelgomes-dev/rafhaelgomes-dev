@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Rafhael Gomes</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Rafhael Gomes, estudante de Desenvolvimento Web Full Stack na Trybe!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafhaelgomes-dev&color=yellow" alt="Profile views" /> </p>
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/rafhael-gomes/" target="_blank">
@@ -9,9 +9,9 @@
 </a>
 </p>
 
-- 📚 Sou estudante de Desenvolvimento Web Full Stack na Trybe
+- 👨🏻‍💻 Apaixonado por tecnologia desde criança, tive meu primeiro contato com programação aos 12 anos de idade. Nessa época me dedicava mais especificamente com a linguagem Basic em que eu passava boa parte do meu tempo desenvolvendo pequenos projetos e pesquisando no YouTube tudo relacionado ao mundo da programação. Atualmente sou estudante de desenvolver web na trybe com foco principal no full stack.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [rafhaelgomes-dev](https://rafhaelgomes-dev)
+- 🚀 Todos os meus projetos estão disponíveis em [rafhaelgomes-dev](https://rafhaelgomes-dev)
 
 - 💚 Sou apaixonado por Mercado Financeiro, Tecnologia e Música
 
