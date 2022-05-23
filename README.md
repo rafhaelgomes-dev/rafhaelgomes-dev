@@ -1,12 +1,9 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Rafhael Gomes, desenvolvedor front-end!!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafhaelgomes-dev&color=yellow" alt="Profile views" /> </p>
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/rafhael-gomes/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Rafhael Gomes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/rafhaelrg" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-rafhaelrg-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+<a href="https://www.linkedin.com/in/rafhael-gomes/"><img src="https://img.shields.io/badge/-Rafhael%20Gomes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/rafhaelrg"><img src="https://img.shields.io/badge/-@rafhaelrg-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:rafhaelgomes.dev@gmail.com"><img src="https://img.shields.io/badge/-rafhaelgomes.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 - 👨🏻‍💻 Apaixonado por tecnologia desde criança, tive meu primeiro contato com programação aos 12 anos de idade. Nessa época me dedicava mais especificamente com a linguagem Basic em que eu passava boa parte do meu tempo desenvolvendo pequenos projetos e pesquisando no YouTube tudo relacionado ao mundo da programação. Atualmente sou estudante de desenvolver web na trybe com foco principal no full stack.
