@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Rafhael Gomes, estudante de Desenvolvimento Web Full Stack na Trybe!</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Rafhael Gomes, desenvolvedor front-end!!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafhaelgomes-dev&color=yellow" alt="Profile views" /> </p>
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/rafhael-gomes/" target="_blank">
