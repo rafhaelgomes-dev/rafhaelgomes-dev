@@ -6,7 +6,7 @@
   <a href="mailto:rafhaelgomes.dev@gmail.com"><img src="https://img.shields.io/badge/-rafhaelgomes.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-- 👨🏻‍💻 Apaixonado por tecnologia desde criança, tive meu primeiro contato com programação aos 12 anos de idade. Nessa época me dedicava mais especificamente com a linguagem Basic em que eu passava boa parte do meu tempo desenvolvendo pequenos projetos e pesquisando no YouTube tudo relacionado ao mundo da programação. Atualmente sou estudante de desenvolver web na trybe com foco principal no full stack.
+- 👨🏻‍💻 Apaixonado por tecnologia desde criança, tive meu primeiro contato com programação aos 12 anos de idade. Nessa época me dedicava mais especificamente com a linguagem Basic em que eu passava boa parte do meu tempo desenvolvendo pequenos projetos e pesquisando no YouTube tudo relacionado ao mundo da programação. Atualmente sou desenvolvedor front-end e trabalho com as seguintes stacks: React, JavaScript, HTML, CSS e Git/GitHub.
 
 - 🚀 Todos os meus projetos estão disponíveis em [rafhaelgomes-dev](https://rafhaelgomes-dev)
 
