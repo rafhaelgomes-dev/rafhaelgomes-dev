@@ -1,39 +1,33 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Rafhael Gomes, desenvolvedor front-end!!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafhaelgomes-dev&color=yellow" alt="Profile views" /> </p>
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/rafhael-gomes/"><img src="https://img.shields.io/badge/-Rafhael%20Gomes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/rafhaelrg"><img src="https://img.shields.io/badge/-@rafhaelrg-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:rafhaelgomes.dev@gmail.com"><img src="https://img.shields.io/badge/-rafhaelgomes.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+Hi 👋 My name is Rafhael Gomes
+==============================
 
-- 👨🏻‍💻 Apaixonado por tecnologia desde criança, tive meu primeiro contato com programação aos 12 anos de idade. Nessa época me dedicava mais especificamente com a linguagem Basic em que eu passava boa parte do meu tempo desenvolvendo pequenos projetos e pesquisando no YouTube tudo relacionado ao mundo da programação. Atualmente sou desenvolvedor front-end e trabalho com as seguintes stacks: React, JavaScript, HTML, CSS e Git/GitHub.
+Front-End Web Developer
+-----------------------
 
-- 🚀 Todos os meus projetos estão disponíveis em [rafhaelgomes-dev](https://rafhaelgomes-dev)
+Hello, I'm a front end web developer, passionate about technology since I was a child, I had my first contact with programming when I was 10 years old. At that time, I dedicated myself more specifically to the Basic language, in which I spent most of my time developing small projects and researching everything related to the world of programming. I currently work with React.Js, JavaScript, Html, Css and Git/Github stacks.
 
-- 💚 Sou apaixonado por Mercado Financeiro, Tecnologia e Música
+* 🌍  I'm based in Bom Jesus da Lapa - Bahia
+* ✉️  You can contact me at [rafhaelgomes.dev@gmail.com](mailto:rafhaelgomes.dev@gmail.com)
 
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
+### Skills
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafhaelgomes-dev&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaelgomes-dev&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
-<br><br>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/rafhaelgomes-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rafhaelrg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafhael-gomes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/rafhaelgomes-dev"><img src="https://github-readme-stats.vercel.app/api?username=rafhaelgomes-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rafhaelgomes-dev's GitHub stats" /></a>
+
+<a href="http://www.github.com/rafhaelgomes-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafhaelgomes-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/rafhaelgomes-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaelgomes-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
