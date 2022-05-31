@@ -1,21 +1,19 @@
-Hi 👋 My name is Rafhael Gomes
+Olá 👋 Meu nome é Rafhael Gomes
 ==============================
 
-Front-End Web Developer
+Estudante de desenvolvimento web na Trybe.
 -----------------------
 
-Hello, I'm a front end web developer, passionate about technology since I was a child, I had my first contact with programming when I was 10 years old. At that time, I dedicated myself more specifically to the Basic language, in which I spent most of my time developing small projects and researching everything related to the world of programming. I currently work with React.Js, JavaScript, Html, Css and Git/Github stacks.
+Apaixonado por tecnologia desde criança, tive meu primeiro contato com programação aos 10 anos de idade. Nessa época me dedicava mais especificamente com a linguagem Basic em que eu passava boa parte do meu tempo desenvolvendo pequenos projetos e pesquisando tudo relacionado ao mundo da programação. Atualmente sou estudante de desenvolvimento web full stack na Trybe.
 
-* 🌍  I'm based in Bom Jesus da Lapa - Bahia
-* ✉️  You can contact me at [rafhaelgomes.dev@gmail.com](mailto:rafhaelgomes.dev@gmail.com)
+* 🌍 Bom Jesus da Lapa - Bahia
+* ✉️  Você pode entrar em contato comigo em [rafhaelgomes.dev@gmail.com](mailto:rafhaelgomes.dev@gmail.com)
 
 ### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
