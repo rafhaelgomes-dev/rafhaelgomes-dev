@@ -1,7 +1,7 @@
 Olá 👋 Meu nome é Rafhael Gomes
 ==============================
 
-Estudante de desenvolvimento web na Trybe.
+Front-end Developer.
 -----------------------
 
 Apaixonado por tecnologia desde criança, tive meu primeiro contato com programação aos 10 anos de idade. Nessa época me dedicava mais especificamente com a linguagem Basic em que eu passava boa parte do meu tempo desenvolvendo pequenos projetos e pesquisando tudo relacionado ao mundo da programação. Atualmente sou estudante de desenvolvimento web full stack na Trybe.
