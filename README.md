@@ -1,10 +1,10 @@
 Olá 👋 Meu nome é Rafhael Gomes
 ==============================
 
-Front-end Developer.
+Software Developer.
 -----------------------
 
-Apaixonado por tecnologia desde criança, tive meu primeiro contato com programação aos 10 anos de idade. Nessa época me dedicava mais especificamente com a linguagem Basic em que eu passava boa parte do meu tempo desenvolvendo pequenos projetos e pesquisando tudo relacionado ao mundo da programação. Atualmente sou desenvolvedor front-end e minhas especialidades são React, Redux, Context API, Hooks, TypeScript, JavaScript, Jest, Testing Library, Git, HTML e CSS.
+Apaixonado por tecnologia desde criança, tive meu primeiro contato com programação aos 10 anos de idade. Nessa época me dedicava mais especificamente com a linguagem Basic em que eu passava boa parte do meu tempo desenvolvendo pequenos projetos e pesquisando tudo relacionado ao mundo da programação. Atualmente trabalho com todo o ecossistema do React.js e Next.js incluindo testes unitários com Jest e Testing library.
 
 * 🌍 Bom Jesus da Lapa - Bahia
 * ✉️  Você pode entrar em contato comigo em [rafhaelgomes.dev@gmail.com](mailto:rafhaelgomes.dev@gmail.com)
