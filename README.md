@@ -1,7 +1,7 @@
 Olá 👋 Meu nome é Rafhael Gomes
 ==============================
 
-Software Developer.
+Full-stack Software Developer.
 -----------------------
 
 Apaixonado por tecnologia desde criança, tive meu primeiro contato com programação aos 10 anos de idade. Nessa época me dedicava mais especificamente com a linguagem Visual Basic em que eu passava boa parte do meu tempo desenvolvendo pequenos projetos e pesquisando tudo relacionado ao mundo da programação. Atualmente trabalho com a linguagem JavaScript/TypeScript utilizando como principais frameworks o NodeJS e Express no Back-end além de VueJS e ReactJS no Front-end.
