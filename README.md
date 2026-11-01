@@ -1,6 +1,6 @@
 # Hi, I'm a Software Engineer 👋
 
-**Software Engineer | Data Engineering, AI Systems & Infrastructure**
+**Tech Lead | Software Engineer | Data Engineering, AI Systems & Infrastructure**
 
 I build scalable software systems, data pipelines, and AI-powered applications, combining software engineering, data engineering, machine learning, and AI infrastructure.
 
